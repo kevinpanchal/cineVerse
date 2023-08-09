@@ -31,19 +31,6 @@ The Application has been deployed using GitLab for version control and GitHub as
 
 For backend, the application has been deployed using [Render](https://render.com). There may be some delay in loading the application for the first time, as the server may be in sleep mode.
 
-## Completed Features
-
-- Authentication
-- Landing Page
-- Movie Details
-- Seat Selection
-- Food & Beverages
-- Parties
-- Payment
-- Movie Management
-- Theatre Management
-- Food & Beverages Management
-
 ## Credentials
 
 ### Admin
